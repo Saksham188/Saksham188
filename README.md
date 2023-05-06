@@ -69,12 +69,12 @@ These are some of the major technologies that I use or have worked on in the pas
 
 </details>
 
-<details>	
+<!-- <details>	
   <summary><b>Tools</b></summary>
 
   <br />
 
-</details>
+</details> -->
 
 ## Some of my stats :bar_chart:
 
