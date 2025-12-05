@@ -101,9 +101,15 @@ src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/j
 ---
 
 ## Some of my stats :bar_chart:
-<p align="center">
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Saksham188&layout=compact" 
-    alt="Top Languages" 
-  />
-</p>
+---
+
+## 🌱 Currently Growing In
+
+- Building scalable GenAI systems  
+- Improving model deployment & MLOps skills  
+- Exploring advanced LLM orchestration  
+- Learning more about distributed data engineering  
+
+---
+
+<p align="center">✨ Thanks for visiting — always open to collaboration! ✨</p>
