@@ -5,7 +5,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/sakshamtyagi99/)
 
 I'm a **Software Engineer (AI/ML)** at **Servosys Solutions**, building real-world AI systems involving  
-LLMs, Computer Vision, OCR, and scalable data pipelines.  
+LLMs, Chatbots, Computer Vision, OCR, and scalable data pipelines.  
 I enjoy creating end-to-end ML systems — from model training to production deployment —  
 and love exploring new technologies that solve real-world problems.  
 
@@ -64,6 +64,17 @@ src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/j
 
 </details>
 
+
+<details>
+  <summary><b>Data Engineering & Big Data</b></summary>
+  <br>
+
+<img title="PySpark" width="40px" src="https://cdn.worldvectorlogo.com/logos/apache-spark-5.svg">  
+<img title="Azure" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/azure/azure.png">  
+<img title="Databricks" width="40px" src="https://companieslogo.com/img/orig/DTB-020be8b1.png?t=1700799048">
+
+</details>
+
 <details>
   <summary><b>Libraries & Frameworks</b></summary>
   <br>
@@ -100,8 +111,6 @@ src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/j
 
 ---
 
-## Some of my stats :bar_chart:
----
 
 ## 🌱 Currently Growing In
 
