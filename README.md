@@ -102,5 +102,8 @@ src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/j
 
 ## Some of my stats :bar_chart:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Saksham188&show_icons=true&locale=en" alt="Saksham188" /></p>
-
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com/?user=Saksham188&theme=default" 
+  />
+</p>
