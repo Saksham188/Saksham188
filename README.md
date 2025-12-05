@@ -48,7 +48,7 @@ These are some of the major technologies I use or have worked on:
 src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="C++" title="C++" width="40px" 
 src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png">|<img alt="JS" title="JavaScript" width="40px" 
 src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|
-|--|--|--|
+|
 
 </details>
 
@@ -60,7 +60,7 @@ src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/j
 <img title="PyTorch" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/pytorch/pytorch.png">
 <img title="TensorFlow" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png">
 <img title="YOLO" width="40px" src="https://avatars.githubusercontent.com/u/99310169?s=200&v=4">
-<img title="HuggingFace" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/hugging-face/hugging-face.png">
+<img title="HuggingFace" width="40px" src="https://huggingface.co/front/assets/huggingface_logo.svg">
 
 </details>
 
