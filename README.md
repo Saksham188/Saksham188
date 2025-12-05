@@ -48,7 +48,7 @@ These are some of the major technologies I use or have worked on:
 src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="C++" title="C++" width="40px" 
 src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png">|<img alt="JS" title="JavaScript" width="40px" 
 src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|
-|
+
 
 </details>
 
@@ -71,7 +71,7 @@ src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/j
 
 <img title="PySpark" width="40px" src="https://cdn.worldvectorlogo.com/logos/apache-spark-5.svg">  
 <img title="Azure" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/azure/azure.png">  
-<img title="Databricks" width="40px" src="https://companieslogo.com/img/orig/DTB-020be8b1.png?t=1700799048">
+<img title="Databricks" width="40px" src="https://seeklogo.com/images/D/databricks-logo-0EC8134C48-seeklogo.com.png">
 
 </details>
 
