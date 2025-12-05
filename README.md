@@ -71,7 +71,7 @@ src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/j
 
 <img title="PySpark" width="40px" src="https://cdn.worldvectorlogo.com/logos/apache-spark-5.svg">  
 <img title="Azure" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/azure/azure.png">  
-<img title="Databricks" width="40px" src="https://seeklogo.com/images/D/databricks-logo-0EC8134C48-seeklogo.com.png">
+<img title="Databricks" width="40px" src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg">
 
 </details>
 
